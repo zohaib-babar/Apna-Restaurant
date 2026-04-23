@@ -374,7 +374,7 @@
 //     </div>
 //   );
 // }
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, } from "react";
 
 const menuData = {
   Starters: [
